@@ -1,0 +1,7 @@
+practicando commandos de git
+git clone
+git status
+git add . 
+git status
+git commit -m "mensaje"
+git push origin main
